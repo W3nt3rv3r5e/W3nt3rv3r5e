@@ -1,4 +1,4 @@
-# INTRODUCTION!🌌🌙⚡
+# 🌌🌙⚡INTRODUCTION!🌌🌙⚡
 
 ### Hi there. 👋 creating some repositories. and some projects. even a fan-made operating system. [The Aeony OS](https://github.com/W3nt3rv3r5e/fanmade_aeony_os) Also on my ego⚡🌙🌌.
 ---
@@ -10,4 +10,6 @@
 ### [Support our Geometry Dash](https://gdbrowser.com/u/RobertPlayz777)
 ### [Try our official Website!](https://w3nt3rv3r5e.github.io/W3nt3rv3r5e)
 ---
+Those of projects and repositories these days.⚡
+--
 😏End of the introduction in profile😏
