@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wenterverse | Portfolio</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.0/umd/lucide.min.js"></script>
+    <style>
+        :root {
+            --bg: #050505;
+            --card-bg: #111111;
+            --border: #222222;
+            --accent: #bb86fc;
+            --text-main: #ffffff;
+            --text-dim: #a0a0a0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.6;
+            display: flex;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+
+        .wrapper {
+            max-width: 900px;
+            width: 100%;
+        }
+
+        /* Header Section */
+        header {
+            margin-bottom: 40px;
+            text-align: left;
+        }
+
+        .profile-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: 8px;
+            letter-spacing: -1px;
+        }
+
+        .emoji-bar {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            opacity: 0.8;
+        }
+
+        .bio {
+            color: var(--text-dim);
+            font-size: 1.1rem;
+            max-width: 600px;
+        }
+
+        /* Bento Grid Layout */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-auto-rows: minmax(160px, auto);
+            gap: 16px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 24px;
+            padding: 24px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            border-color: var(--accent);
+            transform: translateY(-4px);
+            background: #161616;
+        }
+
+        /* Card Variations */
+        .featured {
+            grid-column: span 2;
+            grid-row: span 2;
+            background: linear-gradient(135deg, #111111 0%, #1a1a1a 100%);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .social-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        /* Elements */
+        .tag {
+            display: inline-block;
+            background: rgba(187, 134, 252, 0.1);
+            color: var(--accent);
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+        }
+
+        h2 { font-size: 1.5rem; margin-bottom: 8px; }
+        p { color: var(--text-dim); font-size: 0.95rem; }
+
+        .icon-box {
+            margin-bottom: 15px;
+            color: var(--accent);
+        }
+
+        .footer {
+            margin-top: 60px;
+            text-align: center;
+            color: var(--text-dim);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--border);
+            padding-top: 20px;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            .featured {
+                grid-column: span 1;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrapper">
+    <header>
+        <div class="emoji-bar">🌌 🌙 ⚡</div>
+        <h1 class="profile-title">INTRODUCTION!</h1>
+        <p class="bio">Hi there. 👋 creating some repositories and projects. Even a fan-made operating system and fueling my creative ego.</p>
+    </header>
+
+    <div class="grid">
+        <!-- Main Project -->
+        <a href="https://github.com/W3nt3rv3r5e/fanmade_aeony_os" class="card featured">
+            <div>
+                <span class="tag">Flagship Project</span>
+                <h2>Aeony OS</h2>
+                <p>A unique fan-made operating system project. Dive into the code or join as a contributor to help shape the future of Aeony.</p>
+            </div>
+            <div style="margin-top: 20px; font-weight: bold; color: var(--accent);">
+                View Repository →
+            </div>
+        </a>
+
+        <!-- Game Jolt -->
+        <a href="https://gamejolt.com/@wenterverse" class="card social-card">
+            <div class="icon-box"><i data-lucide="gamepad-2"></i></div>
+            <h3>Game Jolt</h3>
+            <p>Support my games</p>
+        </a>
+
+        <!-- Geometry Dash -->
+        <a href="https://gdbrowser.com/u/RobertPlayz777" class="card social-card">
+            <div class="icon-box"><i data-lucide="layers"></i></div>
+            <h3>Geometry Dash</h3>
+            <p>Level browser</p>
+        </a>
+
+        <!-- Collaborative Card -->
+        <div class="card" style="grid-column: span 3; display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <h2>Want to collaborate?</h2>
+                <p>Be a contributor or a user of AeonyOS—all are welcome.</p>
+            </div>
+            <i data-lucide="users" style="color: var(--accent);"></i>
+        </div>
+    </div>
+
+    <div class="footer">
+        😏 End of the introduction in profile 😏
+    </div>
+</div>
+
+<script>
+    // Initialize icons
+    lucide.createIcons();
+</script>
+
+</body>
+</html>
