@@ -1,16 +1,12 @@
-## Hi there 👋
+# INTRODUCTION!🌌🌙⚡
 
-<!--
-**W3nt3rv3r5e/W3nt3rv3r5e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there. 👋 creating some repositories. and some projects. even a fan-made operaitng system. [The Aeony OS](https://github.com/W3nt3rv3r5e/fanmade_aeony_os) Also on my ego⚡🌙🌌.
+---
+### Want to be the contributor or be user of AeonyOS all you want?. then try this os if you're an user. or collaborate if you're an contributor
+---
+## LINKS:
+### [Try AeonyOS🌌🌙⚡](https://github.com/W3nt3rv3r5e/fanmade_aeony_os)
+### [Support our Game Jolt!](https://gamejolt.com/@wenterverse)
+### [Support our Geometry Dash](https://gdbrowser.com/u/RobertPlayz777)
+---
+😏End of the introduction in profile😏
