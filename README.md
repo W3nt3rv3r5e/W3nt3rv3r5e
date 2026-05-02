@@ -10,6 +10,6 @@
 ### [Support our Geometry Dash](https://gdbrowser.com/u/RobertPlayz777)
 ### [Try our official Website!](https://w3nt3rv3r5e.github.io/W3nt3rv3r5e)
 ---
-### Those of projects and repositories these days.⚡. I am NOT affilated with Alan Walker by hy this W symbol. just a fan. Never STEALING their glory
+### Those of projects and repositories these days.⚡. I am NOT affilated with Alan Walker by this W symbol. just a fan. Never STEALING their glory
 --
 😏End of the introduction in profile😏
