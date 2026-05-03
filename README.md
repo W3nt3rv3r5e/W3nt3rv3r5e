@@ -32,3 +32,6 @@ A creator who loves building unique digital experiences, pushing creativity to t
 **Note:** All projects here are fan-made and conceptual unless stated otherwise. I do not claim ownership of any copyrighted characters or brands (Catnap belongs to Mob Entertainment, Ghazt belongs to My Singing Monsters, etc.). I only create fan content with love and respect.
 
 Until then — we build, we experiment, and we revolt
+
+### Note on the 'W' Symbol
+The 'W' symbol is inspired by Alan Walker. I'm a big fan of his music, but I am not officially affiliated with him or his team. All respect and credit to the original artist.
