@@ -35,3 +35,5 @@ Until then — we build, we experiment, and we revolt
 
 ### Note on the 'W' Symbol
 The 'W' symbol is inspired by Alan Walker. I'm a big fan of his music, but I am not officially affiliated with him or his team. All respect and credit to the original artist.
+
+### Bonus: W3nt3rv3r5e 现在与 Lã Thành Trung 合作，共同为 Windows 12 Fanmade 仓库做出贡献。(W3nt3rv3r5e is now collaborated and contributed with Lã Thành Trung on Windows 12 Fanmade repository)
