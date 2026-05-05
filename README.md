@@ -29,7 +29,7 @@ A creator who loves building unique digital experiences, pushing creativity to t
 - Respect other creators' work.
 - Build for the future.
 
-**Note:** All projects here are fan-made and conceptual unless stated otherwise. I do not claim ownership of any copyrighted characters or brands (Catnap belongs to Mob Entertainment, Ghazt belongs to My Singing Monsters, etc.). I only create fan content with love and respect.
+**Note:** All projects here are fan-made and conceptual unless stated otherwise. I do not claim ownership of any copyrighted characters or brands (Catnap belongs to Mob Entertainment, Ghazt belongs to My Singing Monsters, etc.). I only create fan content with respect.
 
 Until then — we build, we experiment, and we revolt
 
